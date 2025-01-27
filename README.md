@@ -11,7 +11,7 @@
    cd tomoru-test-task
    ```
 
-2. **Запустить проек Docker:**
+2. **Запустить проект Docker:**
    ```bash
    docker compose up --build
    ```
