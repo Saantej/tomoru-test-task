@@ -1,0 +1,6 @@
+services:
+  axum_server:
+    build:
+      context: .
+    ports:
+      - "3000:3000"
